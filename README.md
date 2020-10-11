@@ -19,6 +19,8 @@ Last but not least the Space Bar act as Super key which can be super useful.
 
 # Usage
 
+This will only work with locale set to "en_US.UTF-8".
+[This](https://wiki.archlinux.org/index.php/locale) can be helpful for managing locale.
 You need to install package [xcape](https://github.com/alols/xcape) first then:
 
 ```
